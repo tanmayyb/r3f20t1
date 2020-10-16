@@ -1,6 +1,6 @@
 # R3F20T1
 <p>
-Training Task 1 for R3 - Ryerson Rams Robotics at Ryerson University, Toronto</br>
+Training Task 1 for R3 - Ryerson Rams Robotics at Ryerson University, Toronto (Fall of 2020)</br>
 Submission Date - 16-10-2020
 </p>
 <p>TinkerCAD project link:
